@@ -1,0 +1,22 @@
+{
+  "name": "javascript-memory-leak-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khwask/javascript-memory-leak-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khwask/javascript-memory-leak-sample/issues"
+  },
+  "homepage": "https://github.com/khwask/javascript-memory-leak-sample",
+  "dependencies": {
+    "jquery": "^1.12.0"
+  }
+}
